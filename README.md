@@ -1,34 +1,87 @@
-# Hello Everyone 👋, I'm Henokh Yeremia
+<div align="center">
 
-💻 Beginner Developer  
-🌱 Currently learning Web Development  
-🚀 Interested in Technology & Programming
+# 👋 Hello World, I'm Henokh Yeremia
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Beginner+Developer+🚀;Learning+Web+Development+💻;Future+Fullstack+Developer+🔥" />
 
-## 🛠 Tech Stack
-
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 💫 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenokhYeremia&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenokhYeremia&layout=compact&theme=tokyonight)
+🎓 Beginner Programmer  
+🌱 Currently Learning Web Development  
+💻 Interested in Frontend & Backend  
+🚀 Love Technology & Open Source  
+⚡ Always Learning Something New  
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Tech Stack
 
-- Instagram
-- LinkedIn
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,cpp,react,nodejs,git,github,vscode,mysql,laravel" />
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenokhYeremia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokhYeremia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HenokhYeremia&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://instagram.com/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://gmail.com/">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=HenokhYeremia&color=blueviolet&style=for-the-badge)
+
+</div>
