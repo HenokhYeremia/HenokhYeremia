@@ -182,11 +182,11 @@ DevOps                    █████░░░░░ 50%
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.instagram.com">
+<a href="https://www.instagram.com/hnkhyrmiaa_/">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:henokholbrain@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
