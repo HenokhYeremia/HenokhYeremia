@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/hero/hero-3d.gif" alt="Henokh Yeremia - animated cyan 3D orbital identity" width="100%" />
+<img src="assets/hero/hero-3d.gif" alt="Henokh Yeremia animated 3D identity banner" width="100%" />
 
-<img src="assets/identity/profile-card.svg" alt="Henokh Yeremia personal engineering profile" width="100%" />
+<img src="assets/identity/profile-card.svg" alt="Henokh Yeremia engineering identity card" width="100%" />
+
+**AI SYSTEMS  /  FULLSTACK ENGINEERING  /  AUTOMATION  /  SOFTWARE SECURITY**
 
 [GitHub](https://github.com/HenokhYeremia)  /  [Instagram](https://www.instagram.com/hnkhyrmiaa_/)  /  [Email](mailto:henokholbrain@gmail.com)
 
@@ -20,35 +22,43 @@ My approach is to learn by building: understand the problem, design the system, 
 
 <img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
 
-## 02 / SELECTED PROJECTS
+## 02 / CYBER DEFENSE ARENA
+
+<div align="center">
+
+<img src="assets/arena/arena-header.svg" alt="Cyber Defense Arena: Blue Team versus Red Team" width="100%" />
+
+<img src="assets/arena/blue-vs-red.gif" alt="Animated cinematic battle between a blue defense mech and a red offense mech" width="100%" />
+
+<img src="assets/arena/arena-readout.svg" alt="Blue Team defense systems, simulated engagement, and Red Team offense simulation" width="100%" />
+
+</div>
+
+A visual tribute to the two sides of security engineering: **Blue Team** focuses on detection, protection, and response; **Red Team** explores attack paths to help expose weaknesses. The scene is fictional artwork, not a live security operation or telemetry feed.
+
+<img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
+
+## 03 / SELECTED PROJECTS
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>TURBIFEED</strong><br />
-      <sub>IoT / MOBILE APPLICATION</sub><br /><br />
-      Smart fish-feeding application focused on device monitoring, feeding schedules, manual control, and feeding history.<br /><br />
-      <sub>Flutter / Dart / Firebase / Realtime Database</sub>
+      <img src="assets/projects/turbifeed.svg" alt="TurbiFeed project card" width="100%" />
+      Smart fish-feeding control, device monitoring, schedules, manual control, and feeding history.
     </td>
     <td width="50%" valign="top">
-      <strong>CLC BUSINESS INTELLIGENCE</strong><br />
-      <sub>DATA PLATFORM / DASHBOARD</sub><br /><br />
-      Branch performance monitoring platform built around business intelligence, KPI tracking, data management, and management reporting.<br /><br />
-      <sub>Next.js / TypeScript / PostgreSQL / Drizzle ORM / Recharts</sub>
+      <img src="assets/projects/clc-bi.svg" alt="CLC Business Intelligence project card" width="100%" />
+      Branch KPI monitoring, data management, business intelligence, and management reporting.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>LOK4CODE</strong><br />
-      <sub>GAMIFIED EDTECH / SAAS</sub><br /><br />
-      A coding-learning environment based on observing, rewriting, modifying, fixing, building, and remixing real code.<br /><br />
-      <sub>Next.js / TypeScript / Tailwind CSS</sub>
+      <img src="assets/projects/lok4code.svg" alt="Lok4Code project card" width="100%" />
+      A code-learning environment built around observing, rewriting, modifying, fixing, building, and remixing.
     </td>
     <td width="50%" valign="top">
-      <strong>NOXMODEL / BLENDER AUTO GENERATE</strong><br />
-      <sub>3D TOOLING / AUTOMATION</sub><br /><br />
-      Experimental desktop workflow for turning prompts, images, CAD, or assets into Blender scripts and generated 3D outputs.<br /><br />
-      <sub>Python / Blender Python API (bpy) / 3D Workflows</sub>
+      <img src="assets/projects/noxmodel.svg" alt="NoxModel project card" width="100%" />
+      An experimental prompt-to-Blender workflow for procedural 3D asset generation and automation.
     </td>
   </tr>
 </table>
@@ -57,7 +67,7 @@ More experiments and repositories are available in the [GitHub repository list](
 
 <img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
 
-## 03 / TECHNOLOGY STACK
+## 04 / TECHNOLOGY STACK
 
 **Languages**
 
@@ -79,28 +89,33 @@ More experiments and repositories are available in the [GitHub repository list](
 
 <img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
 
-## 04 / GITHUB ANALYTICS
+## 05 / GITHUB CONTROL ROOM
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=HenokhYeremia&show_icons=true&hide_border=true&bg_color=080D14&title_color=00FFE0&icon_color=00FFE0&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokhYeremia&layout=compact&hide_border=true&bg_color=080D14&title_color=00FFE0&text_color=C9D1D9" alt="Most used languages" />
+<a href="https://github.com/HenokhYeremia?tab=overview">
+  <img src="assets/analytics/control-room.svg" alt="GitHub control room with profile, source code, and activity panels" width="100%" />
+</a>
+
+[OPEN PROFILE OVERVIEW](https://github.com/HenokhYeremia?tab=overview)  /  [EXPLORE REPOSITORIES](https://github.com/HenokhYeremia?tab=repositories)
 
 </div>
 
 <img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
 
-## 05 / CONTRIBUTION ACTIVITY
+## 06 / CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/HenokhYeremia/HenokhYeremia/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="assets/activity/contribution-preview.svg" alt="Contribution matrix visual preview; not live account data" width="100%" />
 
 </div>
 
+The contribution snake is generated by GitHub Actions. Run **Generate contribution snake** from the Actions tab once; after the `output` branch is published, replace the preview image above with the live SVG URL shown in `INSTALL.txt`.
+
 <img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
 
-## 06 / CONNECT
+## 07 / CONNECT
 
 <div align="center">
 
@@ -112,4 +127,4 @@ More experiments and repositories are available in the [GitHub repository list](
 
 ---
 
-<sub>Designed and maintained by Henokh Yeremia. The 3D hero is an animated GIF; the interface graphics are custom SVG assets.</sub>
+<sub>Designed and maintained by Henokh Yeremia. The arena is an animated 3D-style GIF; interface and project panels are custom SVG assets. No live security telemetry is represented.</sub>

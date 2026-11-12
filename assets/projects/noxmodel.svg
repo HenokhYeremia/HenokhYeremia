@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190" fill="none">
+<defs><linearGradient id="edge" x1="0" y1="0" x2="580" y2="190"><stop stop-color="#C18BFF" stop-opacity=".9"/><stop offset="1" stop-color="#25394A"/></linearGradient><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#1A2A38" stroke-width=".7"/></pattern></defs>
+<rect x="1" y="1" width="578" height="188" rx="9" fill="#0A111A" stroke="url(#edge)" stroke-width="1.5"/><rect x="2" y="2" width="576" height="186" rx="8" fill="url(#grid)" opacity=".75"/>
+<path d="M22 26H195" stroke="#C18BFF" stroke-width="2"/><text x="22" y="49" fill="#C18BFF" font-family="monospace" font-size="10" letter-spacing="2">3D TOOLING / AUTOMATION</text>
+<text x="22" y="83" fill="#F1F7FC" font-family="Arial,sans-serif" font-size="23" font-weight="700">NOXMODEL / BLENDER AUTO GENERATE</text>
+<text x="22" y="111" fill="#B2C0CC" font-family="Arial,sans-serif" font-size="12">A prompt-to-Blender workflow for procedural asset creation.</text>
+<text x="22" y="157" fill="#7790A2" font-family="monospace" font-size="10">PYTHON / BLENDER PYTHON API / 3D WORKFLOWS</text>
+<path d="M22 173H330" stroke="#314656"/>
+<g transform="translate(415 33)" stroke="#C18BFF" stroke-width="1.7" fill="none"><path d="M72 5L132 38V105L72 139L12 105V38Z" stroke-opacity=".35"/><path d="M72 5V72M12 38L72 72L132 38M72 72V139M12 105L72 72L132 105"/><path d="M72 20L117 45V96L72 121L27 96V45Z" stroke="#E1C5FF" stroke-opacity=".7"/><circle cx="72" cy="72" r="25" stroke="#C18BFF" stroke-opacity=".65"/><circle cx="72" cy="72" r="4" fill="#C18BFF"/></g>
+</svg>

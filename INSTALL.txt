@@ -1,23 +1,28 @@
-HENOKH YEREMIA - GITHUB PROFILE README
+HENOKH YEREMIA - CYBER DEFENSE PROFILE README
 
-CONTENTS
-- README.md: replace the README.md in the HenokhYeremia/HenokhYeremia profile repository.
-- assets/hero/hero-3d.gif: animated 3D-style hero banner.
-- assets/identity/profile-card.svg: custom identity card SVG.
-- assets/interface/section-divider.svg: section divider SVG.
-- assets/interface/footer.svg: footer SVG.
-- .github/workflows/snake.yml: generates contribution snake SVGs on a schedule.
+PACKAGE CONTENTS
+- README.md: replacement profile README.
+- assets/hero: animated 3D identity banner.
+- assets/arena/blue-vs-red.gif: 9-frame animated Blue Team vs Red Team mech battle.
+- assets/arena: custom static SVG arena HUD panels.
+- assets/projects: custom SVG project cards.
+- assets/analytics: local SVG profile control-room panel; replaces unreliable external stats widgets.
+- assets/activity/contribution-preview.svg: explicitly labelled decorative placeholder until live contribution output is available.
+- .github/workflows/snake.yml: generates the GitHub contribution snake.
 
 INSTALL
 1. Open https://github.com/HenokhYeremia/HenokhYeremia
 2. Upload README.md and the complete assets/ folder to the repository root.
 3. Upload .github/workflows/snake.yml, preserving the .github/workflows folder path.
-4. Commit the changes to the repository's default branch.
+4. Commit the changes to the default branch.
 5. Open the Actions tab, select "Generate contribution snake", and run it once using Run workflow.
-6. After the workflow succeeds, the output branch will contain the contribution SVGs used by README.md.
+6. Confirm the workflow succeeds and publishes the output branch.
+7. To enable the live snake, edit README.md and replace the contribution-preview image with:
+   <img src="https://raw.githubusercontent.com/HenokhYeremia/HenokhYeremia/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 NOTES
-- The contribution snake image appears after the first successful workflow run.
-- The generated 3D hero is a GIF because GitHub README content cannot host a live Three.js/WebGL scene.
-- The SVG assets are static vector graphics for broad GitHub compatibility.
-- Project links are intentionally not fabricated. Add repository links to individual project names when those repositories are public and confirmed.
+- The Blue Team vs Red Team scene is fictional artwork. It does not represent a real security exercise, a live attack, or telemetry.
+- The GitHub stats widgets from the previous README were removed because they appeared as broken images in the supplied screenshot. A local SVG control-room panel now provides a consistent visual section without inventing account metrics.
+- The contribution preview is decorative and explicitly labelled; it is not presented as actual contribution data.
+- Project repository links are not fabricated. Add direct links only when the corresponding repositories are public and verified.
+- README content cannot run a live Three.js/WebGL scene. GIF is used for motion, and SVG for custom interface graphics.

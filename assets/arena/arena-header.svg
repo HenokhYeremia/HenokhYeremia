@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" fill="none">
+<defs>
+ <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0"><stop stop-color="#00D9FF"/><stop offset=".5" stop-color="#607DFF"/><stop offset="1" stop-color="#FF345F"/></linearGradient>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#203345" stroke-width=".7"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="102" rx="10" fill="#080D14" stroke="#263C50"/>
+<rect x="2" y="2" width="1196" height="100" rx="9" fill="url(#grid)" opacity=".85"/>
+<path d="M20 22H260L278 12H450M1180 22H940L922 12H750" stroke="url(#line)" stroke-width="2"/>
+<path d="M20 82H1180" stroke="#253A4A"/>
+<path d="M26 36V68M1174 36V68" stroke="#00D9FF" stroke-width="2"/>
+<text x="44" y="49" fill="#EAFBFF" font-family="monospace" font-size="22" font-weight="700" letter-spacing="3">CYBER DEFENSE ARENA</text>
+<text x="44" y="72" fill="#8FA7B8" font-family="monospace" font-size="11" letter-spacing="2">TACTICAL VISUALIZATION / BLUE TEAM VS RED TEAM</text>
+<text x="1155" y="49" fill="#00D9FF" text-anchor="end" font-family="monospace" font-size="14" font-weight="700">HY // 001</text>
+<text x="1155" y="71" fill="#8FA7B8" text-anchor="end" font-family="monospace" font-size="10" letter-spacing="1.5">SIMULATION MODE</text>
+<path d="M520 12H680M585 8V16M600 8V20M615 8V16" stroke="#34566A"/>
+</svg>

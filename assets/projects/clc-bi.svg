@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="190" viewBox="0 0 580 190" fill="none">
+<defs><linearGradient id="edge" x1="0" y1="0" x2="580" y2="190"><stop stop-color="#8E9DFF" stop-opacity=".9"/><stop offset="1" stop-color="#25394A"/></linearGradient><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" stroke="#1A2A38" stroke-width=".7"/></pattern></defs>
+<rect x="1" y="1" width="578" height="188" rx="9" fill="#0A111A" stroke="url(#edge)" stroke-width="1.5"/><rect x="2" y="2" width="576" height="186" rx="8" fill="url(#grid)" opacity=".75"/>
+<path d="M22 26H195" stroke="#8E9DFF" stroke-width="2"/><text x="22" y="49" fill="#8E9DFF" font-family="monospace" font-size="10" letter-spacing="2">DATA PLATFORM / DECISION SUPPORT</text>
+<text x="22" y="83" fill="#F1F7FC" font-family="Arial,sans-serif" font-size="23" font-weight="700">CLC BUSINESS INTELLIGENCE</text>
+<text x="22" y="111" fill="#B2C0CC" font-family="Arial,sans-serif" font-size="12">Branch KPI monitoring, data management and reporting.</text>
+<text x="22" y="157" fill="#7790A2" font-family="monospace" font-size="10">NEXT.JS / TYPESCRIPT / POSTGRESQL / DRIZZLE</text>
+<path d="M22 173H330" stroke="#314656"/>
+<g transform="translate(405 40)" stroke="#8E9DFF" fill="none"><path d="M0 110H150M12 110V18" stroke-width="1.5"/><rect x="27" y="72" width="19" height="38" fill="#526DDA" fill-opacity=".65"/><rect x="59" y="49" width="19" height="61" fill="#7187F2" fill-opacity=".65"/><rect x="91" y="29" width="19" height="81" fill="#9BA9FF" fill-opacity=".7"/><path d="M20 60L68 39L101 20L143 12" stroke="#D1D7FF" stroke-width="2"/><circle cx="143" cy="12" r="4" fill="#D1D7FF"/></g>
+</svg>
