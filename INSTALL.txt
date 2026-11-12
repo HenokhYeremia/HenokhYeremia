@@ -1,0 +1,23 @@
+HENOKH YEREMIA - GITHUB PROFILE README
+
+CONTENTS
+- README.md: replace the README.md in the HenokhYeremia/HenokhYeremia profile repository.
+- assets/hero/hero-3d.gif: animated 3D-style hero banner.
+- assets/identity/profile-card.svg: custom identity card SVG.
+- assets/interface/section-divider.svg: section divider SVG.
+- assets/interface/footer.svg: footer SVG.
+- .github/workflows/snake.yml: generates contribution snake SVGs on a schedule.
+
+INSTALL
+1. Open https://github.com/HenokhYeremia/HenokhYeremia
+2. Upload README.md and the complete assets/ folder to the repository root.
+3. Upload .github/workflows/snake.yml, preserving the .github/workflows folder path.
+4. Commit the changes to the repository's default branch.
+5. Open the Actions tab, select "Generate contribution snake", and run it once using Run workflow.
+6. After the workflow succeeds, the output branch will contain the contribution SVGs used by README.md.
+
+NOTES
+- The contribution snake image appears after the first successful workflow run.
+- The generated 3D hero is a GIF because GitHub README content cannot host a live Three.js/WebGL scene.
+- The SVG assets are static vector graphics for broad GitHub compatibility.
+- Project links are intentionally not fabricated. Add repository links to individual project names when those repositories are public and confirmed.

@@ -1,185 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=280&color=0:0D1117,100:000000&text=HENOKH%20YEREMIA&fontColor=00FFE0&fontSize=58&animation=fadeIn&fontAlignY=50"/>
+<img src="assets/hero/hero-3d.gif" alt="Henokh Yeremia - animated cyan 3D orbital identity" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=1000&color=00FFE0&center=true&vCenter=true&width=1000&lines=AI+ENGINEER+DASHBOARD;FULLSTACK+DEVELOPER;CYBER+SECURITY+ENTHUSIAST;BUILDING+REAL+WORLD+SYSTEMS;ALWAYS+LEARNING+NEW+THINGS"/>
+<img src="assets/identity/profile-card.svg" alt="Henokh Yeremia personal engineering profile" width="100%" />
 
-<br>
-
-![](https://komarev.com/ghpvc/?username=HenokhYeremia&style=for-the-badge&color=00FFE0)
+[GitHub](https://github.com/HenokhYeremia)  /  [Instagram](https://www.instagram.com/hnkhyrmiaa_/)  /  [Email](mailto:henokholbrain@gmail.com)
 
 </div>
 
----
+<img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
 
-<div align="center">
+## 01 / PROFILE
 
-<img src="profile.svg" alt="Henokh Yeremia - neofetch profile card" width="100%"/>
+I am a software developer interested in building practical digital products, intelligent systems, and automation tools. My work spans full-stack applications, mobile development, data platforms, and experimental AI workflows.
 
-</div>
+My approach is to learn by building: understand the problem, design the system, implement it, test it, and keep improving it.
 
----
+**Primary interests:** AI systems, full-stack engineering, application architecture, automation, and software security.
 
-# ▣ LIVE DASHBOARD
+<img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
+
+## 02 / SELECTED PROJECTS
 
 <table>
-<tr>
-<td>
-
-```text
-SYSTEM STATUS
-─────────────
-
-CPU      █████████░ 92%
-CODING   ██████████ 100%
-COFFEE   ███████░░░ 70%
-BUGS     ████░░░░░░ 40%
-LEARNING ██████████ 100%
-```
-
-</td>
-<td>
-
-```text
-CURRENT OBJECTIVES
-──────────────────
-
-✓ Build Production Apps
-✓ Learn AI Systems
-✓ Improve Backend Skills
-✓ Explore Security
-✓ Contribute to Open Source
-```
-
-</td>
-</tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>TURBIFEED</strong><br />
+      <sub>IoT / MOBILE APPLICATION</sub><br /><br />
+      Smart fish-feeding application focused on device monitoring, feeding schedules, manual control, and feeding history.<br /><br />
+      <sub>Flutter / Dart / Firebase / Realtime Database</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>CLC BUSINESS INTELLIGENCE</strong><br />
+      <sub>DATA PLATFORM / DASHBOARD</sub><br /><br />
+      Branch performance monitoring platform built around business intelligence, KPI tracking, data management, and management reporting.<br /><br />
+      <sub>Next.js / TypeScript / PostgreSQL / Drizzle ORM / Recharts</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>LOK4CODE</strong><br />
+      <sub>GAMIFIED EDTECH / SAAS</sub><br /><br />
+      A coding-learning environment based on observing, rewriting, modifying, fixing, building, and remixing real code.<br /><br />
+      <sub>Next.js / TypeScript / Tailwind CSS</sub>
+    </td>
+    <td width="50%" valign="top">
+      <strong>NOXMODEL / BLENDER AUTO GENERATE</strong><br />
+      <sub>3D TOOLING / AUTOMATION</sub><br /><br />
+      Experimental desktop workflow for turning prompts, images, CAD, or assets into Blender scripts and generated 3D outputs.<br /><br />
+      <sub>Python / Blender Python API (bpy) / 3D Workflows</sub>
+    </td>
+  </tr>
 </table>
 
----
+More experiments and repositories are available in the [GitHub repository list](https://github.com/HenokhYeremia?tab=repositories).
 
-# ▣ AI TOOLCHAIN
+<img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
+
+## 03 / TECHNOLOGY STACK
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,php,dart,java,cpp" alt="Python, TypeScript, JavaScript, PHP, Dart, Java, C++" />
+</p>
+
+**Frameworks and application development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,laravel,flutter,tailwind" alt="React, Next.js, Node.js, Laravel, Flutter, Tailwind CSS" />
+</p>
+
+**Data, infrastructure, and tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase,docker,linux,git,github,figma,vscode" alt="PostgreSQL, MySQL, Supabase, Firebase, Docker, Linux, Git, GitHub, Figma, VS Code" />
+</p>
+
+<img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
+
+## 04 / GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,docker,linux,postgres,supabase,git,github,vscode"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=HenokhYeremia&show_icons=true&hide_border=true&bg_color=080D14&title_color=00FFE0&icon_color=00FFE0&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokhYeremia&layout=compact&hide_border=true&bg_color=080D14&title_color=00FFE0&text_color=C9D1D9" alt="Most used languages" />
+
+</div>
+
+<img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
+
+## 05 / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HenokhYeremia/HenokhYeremia/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
+
+<img src="assets/interface/section-divider.svg" alt="Section divider" width="100%" />
+
+## 06 / CONNECT
+
+<div align="center">
+
+[GitHub](https://github.com/HenokhYeremia)  /  [Instagram](https://www.instagram.com/hnkhyrmiaa_/)  /  [Email](mailto:henokholbrain@gmail.com)
+
+<img src="assets/interface/footer.svg" alt="Build, learn, automate, ship" width="100%" />
 
 </div>
 
 ---
 
-# ▣ TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,python,java,cpp,react,nextjs,nodejs,flutter,dart,laravel,mysql,postgres,supabase,firebase,docker,linux,git,github,vscode,figma"/>
-
-</div>
-
----
-
-# ▣ CURRENT PROJECTS
-
-| PROJECT | DESCRIPTION |
-|----------|----------|
-| 🚀 SCAN IMS | Inventory Management System |
-| 🔐 Penetration Test Web | Security Assessment Platform |
-| 📱 Flutter Mobile Apps | Android Development |
-| 🤖 AI Automation Lab | AI Workflow Experiments |
-| 🎮 Roblox Studio Projects | AI Assisted Development |
-| 🌐 Fullstack Web Apps | Laravel + React Ecosystem |
-
----
-
-# ▣ GITHUB ANALYTICS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenokhYeremia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenokhYeremia&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# ▣ CONTRIBUTION MATRIX
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HenokhYeremia&theme=tokyo-night&hide_border=true"/>
-
----
-
-# ▣ ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HenokhYeremia&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# ▣ DEVELOPMENT METRICS
-
-```text
-Artificial Intelligence   ███████░░░ 70%
-Backend Development       █████████░ 90%
-Frontend Development      ████████░░ 80%
-Mobile Development        ███████░░░ 70%
-Cyber Security            ██████░░░░ 60%
-Database Engineering      ████████░░ 80%
-DevOps                    █████░░░░░ 50%
-```
-
----
-
-# ▣ NEURAL NETWORK ACTIVITY
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# ▣ RANDOM DEV QUOTE
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-# ▣ CONNECT
-
-<div align="center">
-
-<a href="https://github.com/HenokhYeremia">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://www.instagram.com/hnkhyrmiaa_/">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="mailto:henokholbrain@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## BUILD • LEARN • AUTOMATE • SHIP
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFE0,100:0D1117&height=120&section=footer"/>
-
-</div>
+<sub>Designed and maintained by Henokh Yeremia. The 3D hero is an animated GIF; the interface graphics are custom SVG assets.</sub>

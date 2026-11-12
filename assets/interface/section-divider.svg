@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" fill="none">
+  <path d="M0 14H470L488 4H712L730 14H1200" stroke="#24404C" stroke-width="1.4"/>
+  <path d="M0 14H235" stroke="#00DCC7" stroke-width="2"/>
+  <path d="M488 4H712" stroke="#00DCC7" stroke-width="1.4" stroke-dasharray="5 7"/>
+  <path d="M1128 8L1134 14L1128 20M1143 8L1149 14L1143 20M1158 8L1164 14L1158 20" stroke="#00DCC7" stroke-width="1.5"/>
+  <circle cx="600" cy="14" r="4" fill="#00FFE0"/>
+</svg>
