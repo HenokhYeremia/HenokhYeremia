@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">A personal cinematic cameo</title>
+  <desc id="desc">A cinematic section title for an animated elevator scene featuring Henokh and an original fictional companion.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101923"/>
+      <stop offset="0.55" stop-color="#11151c"/>
+      <stop offset="1" stop-color="#251b19"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff"/>
+      <stop offset="0.5" stop-color="#b8d6df"/>
+      <stop offset="1" stop-color="#e58e64"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-100%" width="160%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="150" rx="8" fill="url(#bg)"/>
+  <path d="M1 18 H1199 M1 132 H1199" stroke="#35434d" stroke-width="1"/>
+  <path d="M28 18 V132 M1172 18 V132" stroke="#35434d" stroke-width="1"/>
+  <path d="M28 18 H200 M1000 132 H1172" stroke="url(#line)" stroke-width="3" filter="url(#glow)"/>
+  <g fill="#8ea4af" font-family="JetBrains Mono,Consolas,monospace" font-size="13" letter-spacing="3">
+    <text x="52" y="48">PERSONAL CINEMATIC CAMEO / 001</text>
+    <text x="1148" y="48" text-anchor="end">3D ANIMATED SEQUENCE</text>
+  </g>
+  <text x="52" y="94" fill="#f2f6f7" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="700" letter-spacing="2">THE UNKNOWN</text>
+  <text x="360" y="94" fill="#8ea4af" font-family="JetBrains Mono,Consolas,monospace" font-size="16" letter-spacing="2">— THE ELEVATOR SCENE</text>
+  <g fill="#00e5ff">
+    <circle cx="1110" cy="91" r="4"/>
+    <circle cx="1128" cy="91" r="4" opacity=".6"/>
+    <circle cx="1146" cy="91" r="4" opacity=".3"/>
+  </g>
+  <text x="52" y="119" fill="#bd8d78" font-family="JetBrains Mono,Consolas,monospace" font-size="10" letter-spacing="2">MAIN CHARACTER: HENOKH / COMPANION: ORIGINAL FICTIONAL CHARACTER</text>
+</svg>

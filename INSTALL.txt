@@ -5,6 +5,8 @@ PACKAGE CONTENTS
 - assets/hero: animated 3D identity banner.
 - assets/arena/blue-vs-red.gif: 9-frame animated Blue Team vs Red Team mech battle.
 - assets/arena: custom static SVG arena HUD panels.
+- assets/cinematic/the-unknown-elevator.gif: 9-frame 3D-inspired personal elevator cameo based on the profile portrait, with an original fictional companion.
+- assets/cinematic/scene-header.svg: custom cinematic section title panel.
 - assets/projects: custom SVG project cards.
 - assets/analytics: local SVG profile control-room panel; replaces unreliable external stats widgets.
 - assets/activity/contribution-preview.svg: explicitly labelled decorative placeholder until live contribution output is available.
@@ -21,6 +23,7 @@ INSTALL
    <img src="https://raw.githubusercontent.com/HenokhYeremia/HenokhYeremia/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 NOTES
+- The cinematic companion labelled “The Unknown” is an original fictional character, not a real person or a depiction of a specific actor.
 - The Blue Team vs Red Team scene is fictional artwork. It does not represent a real security exercise, a live attack, or telemetry.
 - The GitHub stats widgets from the previous README were removed because they appeared as broken images in the supplied screenshot. A local SVG control-room panel now provides a consistent visual section without inventing account metrics.
 - The contribution preview is decorative and explicitly labelled; it is not presented as actual contribution data.
